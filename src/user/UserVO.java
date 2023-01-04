@@ -1,6 +1,6 @@
 package user;
 
-public class User {
+public class UserVO {
 	private String userName;
 	private int userAge;
 	private String userGender;
